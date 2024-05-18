@@ -26,7 +26,7 @@ export default function SliderSearch() {
                 href="#link1"
                 role="tablist"
               >
-                Profile
+                <i className="fas fa-space-shuttle text-base mr-1"></i> Profile
               </a>
             </li>
             <li className="-mb-px mr-2 last:mr-0 flex-auto text-center">
@@ -45,7 +45,7 @@ export default function SliderSearch() {
                 href="#link2"
                 role="tablist"
               >
-                Settings
+                <i className="fas fa-cog text-base mr-1"></i>  Settings
               </a>
             </li>
             <li className="-mb-px mr-2 last:mr-0 flex-auto text-center">
@@ -64,7 +64,7 @@ export default function SliderSearch() {
                 href="#link3"
                 role="tablist"
               >
-                Options
+                <i className="fas fa-briefcase text-base mr-1"></i>  Options
               </a>
             </li>
           </ul>
