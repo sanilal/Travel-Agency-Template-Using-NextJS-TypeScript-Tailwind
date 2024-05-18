@@ -3,7 +3,7 @@ import { FaInstagram, FaSquareFacebook  } from "react-icons/fa6";
 
 export default function Topbar() {
   return (
-    <div className='w-full bg-th-blue flex justify-center py-2'>
+    <div className='w-full bg-th-blue sm:flex hidden justify-center py-2'>
         <div className="flex max-w-7xl container justify-between px-[2vw]">
         <div className='flex items-center gap-2 pr-16 mr-16 border-r border-r-white border-opacity-30'>
         <svg xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27" fill='#ec3894'>
